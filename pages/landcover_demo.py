@@ -101,5 +101,6 @@ try:
     # ![](https://i.imgur.com/5DGOuTC.png)
     
 except Exception as e:
+    import streamlit as st
     st.error(f"An error occurred: {e}")
     raise e
