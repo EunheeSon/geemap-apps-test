@@ -39,8 +39,8 @@ try:
 
 
     # Set the date range
-    start_date = '2011-01-01'
-    end_date = '2020-12-31'
+    start_date = '2017-01-01'
+    end_date = '2021-12-31'
 
 
     # The `return_type` can be `hillshade`, `visualize`, `class`, or `probability`. If you want to use the resulting images for further analysis, you should use `class`.
